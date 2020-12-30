@@ -1,5 +1,5 @@
 import * as c1 from './lib/counter.js';
-import { counter , decrement, increment as testvar , testdec, testinc from './lib/counter.js'; 
+import { counter, decrement, increment as testvar, testdec, testinc } from './lib/counter.js'; 
   
 console.log("Info1:",testvar); // 1
 testinc();
